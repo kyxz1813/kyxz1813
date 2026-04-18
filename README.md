@@ -6,10 +6,10 @@ Interested in **Healthcare AI, Machine Learning, and Data Systems**
 ---
 
 ## 🔗 Links
-- 🌐 Portfolio: [https://kyxz1813.github.io/portfolio/]  
-- 💼 LinkedIn: [https:www.linkedin.com/in/yuxuan-zhou-3772a1282]  
-- 📧 Email: [katezhou.1813@gmail.com]
-- 📄 Resume: [https://docs.google.com/document/d/1kkqheO-kT0d7dRZfloB0f4VAdj0awE846kMVVtzeVqo/edit?usp=sharing]
+- 🌐 [Portfolio](https://kyxz1813.github.io/portfolio/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuxuan-zhou-3772a1282) 
+- 📧 [Email](katezhou.1813@gmail.com)
+- 📄 [Resume](https://docs.google.com/document/d/1kkqheO-kT0d7dRZfloB0f4VAdj0awE846kMVVtzeVqo/edit?usp=sharing)
   
 ---
 
